@@ -1,0 +1,21 @@
+body{
+  height: 500px;
+  width: 500px;
+}
+
+.container {
+  /*height: 100px;*/
+  width: 900px;
+
+
+}
+
+.pixel {
+  height: 8px;
+  width: 8px;
+  border: 1px solid black;
+  padding: 1%;
+  margin: 0%;
+  float: left;
+  display: inline-block;
+}
