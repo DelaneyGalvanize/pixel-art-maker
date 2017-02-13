@@ -6,8 +6,9 @@ body{
 .container {
   /*height: 100px;*/
   width: 900px;
-
-
+  float: left;
+  margin: 0 0 80px 0;
+  /*position: absolute;*/
 }
 
 .pixel {
@@ -18,4 +19,15 @@ body{
   margin: 0%;
   float: left;
   display: inline-block;
+}
+
+/*button {
+  /*height: 45px;
+  width: 45px;
+  margin: 15px 20px 20px 15px;
+  border: 1px solid black;
+  display: inline-block;
+  position:relative;
+  float: left;*/*/
+
 }
