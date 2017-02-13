@@ -1,19 +1,21 @@
+
+
 body{
-  height: 500px;
-  width: 500px;
+  height: auto;
+  width: auto;
 }
 
 .container {
-  /*height: 100px;*/
-  width: 900px;
-  float: left;
+  height: 100%;
+  width: 101%;
+  /*float: left;*/
   margin: 0 0 80px 0;
   /*position: absolute;*/
 }
 
 .pixel {
-  height: 8px;
-  width: 8px;
+  height: 5px;
+  width: 5px;
   border: 1px solid black;
   padding: 1%;
   margin: 0%;
@@ -21,13 +23,11 @@ body{
   display: inline-block;
 }
 
-/*button {
+/*button {*/
   /*height: 45px;
   width: 45px;
   margin: 15px 20px 20px 15px;
   border: 1px solid black;
   display: inline-block;
   position:relative;
-  float: left;*/*/
-
-}
+  float: left;*/
